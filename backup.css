@@ -1,6 +1,8 @@
 
 body{
     background: linear-gradient(270deg, #D4C3C3 47.26%, #D4C3C3 48.23%, #00F9BD 48.23%);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
@@ -33,6 +35,9 @@ body{
 
 .container{
     background: linear-gradient(270deg, #D4C3C3 47.26%, #D4C3C3 48.23%, #00F9BD 48.23%)
+    background-size:cover;
+    background-repeat:no-repeat;
+
 }
 
 h1{
